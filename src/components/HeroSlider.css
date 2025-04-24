@@ -1,0 +1,26 @@
+.hero-slider {
+    position: relative;
+    height: 100vh;
+  }
+  
+  .hero-slider .slick-slide {
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .hero-slider img {
+    width: 1220px;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .slick-dots {
+    bottom: 20px;
+  }
+  
+  .slick-dots li button:before {
+    color: #fff;
+  }
+  

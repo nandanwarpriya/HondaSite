@@ -1,0 +1,31 @@
+
+.aboutusdiv1{
+    display:flex;
+    padding:5px;
+    margin-left:180px;
+    margin-top:-130px;
+  }
+  
+  .aboutusdiv2{
+    padding:2px;
+    margin:10px;
+    width:350px;
+    height:400px;
+    padding:10px;
+    margin:20px;
+    background-color:transparent;
+  }
+  
+  .aboutush1{
+    color:crimson;
+    text-align: left;
+    font-family:sans-serif Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .aboutushr{
+    margin-bottom: 5px;
+    margin-top: 0;
+    border-top: 1px solid #000;
+    margin-left: 10px;
+    
+  }

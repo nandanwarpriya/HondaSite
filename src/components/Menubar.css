@@ -1,0 +1,42 @@
+.div1{
+    position:relative;
+  }
+  
+  .nav1{
+    text-align: center;
+  }
+
+  .navbarheader
+{
+margin-top:80px;
+color:white;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 20px;
+font-size: 15px;
+text-decoration:none;
+padding:7px;
+text-align: center; 
+}
+
+.a1{
+    margin-left: 120px;
+  }
+
+.span1{
+    margin-left:110px;
+  }
+  
+  .span2{
+    background-color:red;
+    margin-top:80px;
+    margin-right:50px;
+    height:50px;
+    padding:10px;
+  }
+  #container div{
+    height:370px;
+    width:400px;
+    background: white;
+    margin:20px;
+    text-align:center;
+  }

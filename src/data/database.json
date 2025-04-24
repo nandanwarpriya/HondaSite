@@ -1,0 +1,72 @@
+{
+    "bikes": [
+      {
+        "id": "SP160",
+        "name": "Honda SP 160",
+        "mainimg": "/assets/images/SP-160-main.webp",
+        "headerLogo": "/assets/images/SP160-header-logo.png",
+        "formBgImg": "/assets/images/SP160-enquiry-img.png",
+        "formBgColor": "red"
+      },
+      {
+        "id": "QC1",
+        "name": "Honda QC1",
+        "mainimg": "/assets/images/QC1-main.webp",
+        "headerLogo": "/assets/images/QC1-header-logo.png",
+        "formBgImg": "/assets/images/QC1-enquiry-img.png",
+        "formBgColor": "skyblue"
+      },
+      {
+        "id": "Activa125",
+        "name": "Honda Activa 125",
+        "mainimg": "/assets/images/Activa125-main.webp",
+        "headerLogo": "/assets/images/Activa125-header-logo.png",
+        "formBgImg": "/assets/images/Activa125-enquiry-img.webp",
+        "formBgColor": "brown",
+        "width":"171px"
+      },
+      {
+        "id": "ActivaE",
+        "name": "Honda Activa E",
+        "mainimg": "/assets/images/ActivaE-main.webp",
+        "headerLogo": "/assets/images/ActivaE-header-logo.png",
+        "formBgImg": "/assets/images/ActivaE-enquiry-img.png",
+        "formBgColor": "green"
+      },
+      {
+        "id": "CB200X",
+        "name": "Honda CB200X",
+        "mainimg": "/assets/images/CB200X-main.webp",
+        "headerLogo": "/assets/images/CB200x-header-logo.png",
+        "formBgImg": "/assets/images/CB200X-enquiry-img.png",
+        "formBgColor": "pink"
+      },
+      {
+        "id": "Hornet2.0",
+        "name": "Honda Hornet2.0",
+        "mainimg": "/assets/images/Hornet-2.0-main.webp",
+        "headerLogo": "/assets/images/Hornet-2.0-header-logo.png",
+        "formBgImg": "/assets/images/Hornet-2.0-enquiry-img.png",
+        "formBgColor": "gray"
+      }
+    ],
+    "states": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Haryana",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Odisha",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Telangana",
+        "Uttar Pradesh",
+        "West Bengal"
+      ]
+    
+  }
+  
