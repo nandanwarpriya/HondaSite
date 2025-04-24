@@ -7,7 +7,6 @@ import CB200X from '../assets/images/CB200X-main.webp';
 import Hornet from '../assets/images/Hornet-2.0-main.webp';
 import QC from '../assets/images/QC1-main.webp';
 import SP160 from '../assets/images/SP-160-main.webp'
-import AboutUsCarousel from '../pages/AboutUsCarousel';
 
 const HeroSlider = ({ onSlideClick }) => {
   const slides = [

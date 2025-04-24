@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import {Link} from "react-router-dom";
 import "./latest.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
@@ -43,35 +44,16 @@ export default function LatestCarousel() {
               className={`carousel-item ${index === 0 ? "active" : ""}`}
               data-bs-interval="1000"
             >
-              <a href="#">
+            <Link>
                 <img
                   src={`https://www.honda2wheelersindia.com/assets/images/latest-product/${img}`}
                   className="d-block w-100"
                   alt={`Slide ${index + 1}`}
                 />
-              </a>
+              </Link>
             </div>
           ))}
         </div>
-
-        {/* <button
-          className="carousel-control-prev"
-          type="button"
-          data-bs-target="#carouselExampleAutoplaying"
-          data-bs-slide="prev"
-        >
-          <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span className="visually-hidden">Previous</span>
-        </button>
-        <button
-          className="carousel-control-next"
-          type="button"
-          data-bs-target="#carouselExampleAutoplaying"
-          data-bs-slide="next"
-        >
-          <span className="carousel-control-next-icon" aria-hidden="true"></span>
-          <span className="visually-hidden">Next</span>
-        </button> */}
       </div>
     </div>
   );
